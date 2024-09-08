@@ -165,7 +165,7 @@ const Profile = ({ show, setShow, darkmode, bgcolor,setCross }) => {
               bgcolor === "white" ? "text-black" : "text-white"
             }`}
           >
-            Your Name
+            UJWAL GOWDA V
           </h1>
           <div
             className="passion w-6/12 h-8 p-2 relative lg:top-12 sm:top-20"
@@ -179,7 +179,8 @@ const Profile = ({ show, setShow, darkmode, bgcolor,setCross }) => {
                 color: `${bgcolor === "white" ? "#000000" : "#A6A6A6"}`,
               }}
             >
-              DEVELOPER
+              FULL STACK WEB DEVELOPER
+              MERN
             </h1>
           </div>
 
