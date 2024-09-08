@@ -180,7 +180,7 @@ const Profile = ({ show, setShow, darkmode, bgcolor,setCross }) => {
               }}
             >
               FULL STACK WEB DEVELOPER
-              MERN
+              (MERN)
             </h1>
           </div>
 
@@ -253,7 +253,7 @@ const Profile = ({ show, setShow, darkmode, bgcolor,setCross }) => {
                     bgcolor === "white" ? "text-black" : "text-white"
                   }`}
                 >
-                  +9111234566445
+                  +91 7483268624
                 </h1>
               </div>
             </div>
@@ -279,7 +279,7 @@ const Profile = ({ show, setShow, darkmode, bgcolor,setCross }) => {
                     bgcolor === "white" ? "text-black" : "text-white"
                   } text-sm sm:text-sm`}
                 >
-                  xyz7988@gmail.com
+                  ujwalgowda2002v@gmail.com
                 </h1>
               </div>
             </div>
@@ -305,7 +305,7 @@ const Profile = ({ show, setShow, darkmode, bgcolor,setCross }) => {
                     bgcolor === "white" ? "text-black" : "text-white"
                   }`}
                 >
-                  Jhajjar,Haryana
+                  Bengaluru - 560073
                 </h1>
               </div>
             </div>
@@ -331,14 +331,14 @@ const Profile = ({ show, setShow, darkmode, bgcolor,setCross }) => {
                     bgcolor === "white" ? "text-black" : "text-white"
                   }`}
                 >
-                  28 jul 2003 
+                  26 September 2002 
                 </h1>
               </div>
             </div>
           </div>
           <div className="flex relative top-5">
             <button className="bg-blue-500 flex items-center rounded-lg justify-center text-white p-2 text-md text-nowrap w-36 h-10">
-              <a href={cv} download="Resume" className="flex">
+              <a href={cv} download="Ujwal_Gowda_V_(R)" className="flex">
                 <MdOutlineFileDownload className="text-2xl" />
                 Download CV
               </a>
