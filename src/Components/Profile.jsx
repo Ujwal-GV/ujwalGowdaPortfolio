@@ -9,7 +9,7 @@ import { BsCalendarDate } from "react-icons/bs";
 import { MdOutlineFileDownload } from "react-icons/md";
 import Anurag from "./SocialLinks/myphoto.jpeg";
 import "../Components/Global.css";
-import cv from "../Components/SocialLinks/Resume.pdf";
+import cv from "../Components/SocialLinks/Ujwal_Gowda_V_(R).pdf";
 import { FaRegUser } from "react-icons/fa";
 import { PiNotepad } from "react-icons/pi";
 import { FaLaptopCode } from "react-icons/fa";
